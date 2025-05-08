@@ -1,0 +1,7 @@
+{
+  "name": "srqueid/sispet",
+  "description": "Sistema de pets",
+  "require": {
+    "php": "^8.1"
+  }
+}
